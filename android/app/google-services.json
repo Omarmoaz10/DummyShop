@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "431373370514",
+    "project_id": "dummey-f4354",
+    "storage_bucket": "dummey-f4354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431373370514:android:8f44c4a5c5e6f46276d24b",
+        "android_client_info": {
+          "package_name": "com.example.dummy_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431373370514-fde9cjpj31s7i5fn2oa0p9575hmkcki7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHt_TEkO-TwZY_bZaopVOso3KVSWGn4XY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431373370514-fde9cjpj31s7i5fn2oa0p9575hmkcki7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

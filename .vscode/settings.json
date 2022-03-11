@@ -1,0 +1,12 @@
+{
+    "editor.tokenColorCustomizations": {
+        "comments": "",
+        "textMateRules": []
+    },
+    "cSpell.words": [
+        "cupertino",
+        "geolocator",
+        "readmore",
+        "Schyler"
+    ]
+}
